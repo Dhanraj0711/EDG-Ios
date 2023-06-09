@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "bc268c28fb170f494de9e9927c371b8342979ece",
+        "version" : "5.7.1"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "e8625b80c413457b13ea9be75d07f6e9f5830c19",
+        "version" : "7.7.0"
+      }
+    },
+    {
+      "identity" : "objectmapper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tristanhimmelman/ObjectMapper.git",
+      "state" : {
+        "revision" : "0b96a734de3ea1c87374ae677064f86adb0716ec",
+        "version" : "4.2.0"
+      }
+    }
+  ],
+  "version" : 2
+}
